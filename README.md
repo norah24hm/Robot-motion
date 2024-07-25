@@ -50,7 +50,7 @@ Simple robot walking algorithm that creates a basic walking motion by lifting an
 * Online 3D modeling simulator e.g. Tinckercad https://www.tinkercad.com
 
 #### Circuit design:
-![circuit](https://github.com/user-attachments/assets/86050698-4d31-4727-aa2f-1a7afcb42b80)
+![6-servo](https://github.com/user-attachments/assets/3bb6859c-6fa3-460f-b2a7-3dbfc14a8d1e)
 
 ---------------------------------------------------------------------------
 #### List of the circuit's components:
@@ -130,7 +130,10 @@ void loop() {
 
 ## Demo:
 
-https://github.com/user-attachments/assets/d7316555-2457-457c-80b7-975f692ca95a
+
+https://github.com/user-attachments/assets/0cabf434-1add-46c2-96a7-a1859314e6ec
+
+
 
 
 
